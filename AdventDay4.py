@@ -1,2 +1,2 @@
 def advent41():
-    pass
+    print('hello world')
