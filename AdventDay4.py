@@ -1,2 +1,2 @@
 def advent41():
-    print('hello world')
+    print('bye')
